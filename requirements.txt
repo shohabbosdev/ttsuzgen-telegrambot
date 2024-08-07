@@ -1,2 +1,7 @@
-
+pyTelegramBotAPI
 requests
+python-dotenv
+audioread
+numpy
+scipy
+pydub
